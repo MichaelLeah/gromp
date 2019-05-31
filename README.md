@@ -1,7 +1,7 @@
 ![GROMP](http://i.imgur.com/wuDPY42.png)
 # GROMP
 
-We ended up Runner's up, hope you all enjoyed:
+We ended up Runner's up, hope you all enjoyed:  
 https://na.leagueoflegends.com/en/news/community/contests/riot-games-api-challenge-2016-winners
 
 GROMP is a  League of Legends's website that focus's heavily on the users champions mastery. We move away from the norm of showing you your K:D Ratio, and try to push you
